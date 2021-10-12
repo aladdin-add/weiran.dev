@@ -1,44 +1,36 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "赵胜栋",
+    "occupation": "JavaScript 开发",
+    "location": "浙江, 杭州",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "he/him",
+    "email": "weiran.zsd@outlook.com",
+    "telephone": "+86 186 67161 242",
+    "website": "https://github.com/aladdin-add",
     "skills": [
         "HTML",
         "CSS",
         "Javascript / ES6",
-        "UI Design",
+        "Typescript",
+        "Node.js",
         "React",
         "Git"
     ],
     "languages": [
         {
+            "name": "中文",
+            "level": "母语"
+        },
+        {
             "name": "English",
-            "level": "native"
-        },
-        {
-            "name": "German",
-            "level": "fluent"
-        },
-        {
-            "name": "French",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
-        },
-        {
-            "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "@aladdin-add",
+            "url": "https://github.com/aladdin-add"
         }
     ]
 }
